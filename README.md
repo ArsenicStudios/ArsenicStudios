@@ -9,7 +9,7 @@ Salut, je suis Arsenic, un passionné de développement qui explore le monde fas
 - 📚 J'ai toujours envie d'apprendre et de découvrir de nouvelles technologies.
 
 ## Projets en cours
-- Actuellement en train de moderniser une interface ESX IDENTITY pour FiveM ( Gta RP ). ![Voir le projet](https://github.com/ArsenicStudios/Arsenicooo-RedesignedEsxIdentity)
+- Actuellement en train de moderniser une interface ESX IDENTITY pour FiveM ( Gta RP ). [Voir le projet](https://github.com/ArsenicStudios/Arsenicooo-RedesignedEsxIdentity)
 - Je refait l'ancien site Vitrine de la WebRadio ! ( Pas de lien vers le projet pour le moment )
 
 ## Contact

@@ -23,6 +23,6 @@ Salut, je suis Arsenic, un passionné de développement qui explore le monde fas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## Statistiques GitHub
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=votre_nom_utilisateur&show_icons=true&theme=radical)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=ArsenicStudios&show_icons=true&theme=radical)
 
 **N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou discussion ! 🚀**
